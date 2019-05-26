@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BLTEVerifier": {
+      "commandName": "Project",
+      "commandLineArgs": "\"H:/\""
+    }
+  }
+}
